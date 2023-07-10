@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+.root-div {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 50px;
+}
+
+.instagram-feed {
+    width: 1000px;
+
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+
+    margin-top: 50px;
+}

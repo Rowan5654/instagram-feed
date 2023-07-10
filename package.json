@@ -1,0 +1,6 @@
+{
+  "homepage": "http://Rowan5654.github.io/instagram-feed",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
